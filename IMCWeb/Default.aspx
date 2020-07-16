@@ -1,6 +1,5 @@
-﻿<%@ Page Title="Home Page" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="IMCWeb._Default" %>
+﻿<%@ Page Title="Home Page" Language="VB"  AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="IMCWeb._Default" %>
 
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
@@ -39,4 +38,3 @@
         </div>
     </div>
 
-</asp:Content>
